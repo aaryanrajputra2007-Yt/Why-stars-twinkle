@@ -1,0 +1,145 @@
+🎨 Style Guide
+Palette
+
+Background: soft white #F7F8FA fading into a very light sky tint #EAF2FF
+Starlight beam: warm gradient, golden #FFC83D to coral #FF7A59
+Hot air layer: frosted peach glass #FFD9C7
+Cold air layer: frosted sky blue glass #CFE6FF
+Accent/highlight: Apple-style blue #0A84FF
+Text: near-black #1D1D1F
+
+
+Typography: Inter or Manrope (SF Pro is the real Apple font, but its license doesn't cover this kind of use). Bold weight for key terms, regular for everything else. Big type, lots of breathing room, never more than 3 to 4 words on screen at once.
+
+
+
+3D look: Glossy, soft clay-like objects with soft studio lighting, gentle shadows, and subtle reflections. No realistic textures and no clutter. Think product shots from an iPhone launch.
+
+
+
+Motion rules
+
+Ease-in-out on everything (cubic bezier 0.4, 0, 0.2, 1), and nothing moves linearly
+Slow camera orbits and push-ins, like a product reveal
+Springy little bounces when an object appears (scale 0.9 to 1.02 to 1)
+Text fades up about 20px, it doesn't pop
+Hold every key frame for about 0.5s before moving on so it can breathe
+
+
+Sound: Light, upbeat marimba or piano plucks, soft glassy "tings" on the flickers, and a clean whoosh on transitions. Warm, friendly VO, a little slower than the usual Shorts pace.
+
+🎬 Revised Shot Plan (about 45s)
+#
+
+Time
+
+Voiceover
+
+Visuals
+
+On-screen text
+
+1
+
+0–4s
+
+"Taare ki light space mein bilkul seedhi travel karti hai."
+
+Clean white frame. A glossy 3D golden star springs in at center with a soft glow. A gradient light ribbon glides out in a perfectly straight line as the camera slowly tracks along.
+
+Seedhi line.
+
+2
+
+4–9s
+
+"Par jaise hi wo Earth ke atmosphere mein aati hai…"
+
+A soft pastel Earth rises from the bottom of the frame like a product reveal. A thin translucent blue shell (the atmosphere) glows around it. The ribbon glides into it.
+
+Atmosphere
+
+3
+
+9–15s
+
+"…wahan hawa ki layers hain. Garam hawa kam dense, thandi hawa zyada dense."
+
+The camera pushes into the shell, which separates into floating frosted glass panes: peach (hot) and sky blue (cold), stacked with gentle spacing and a slow orbit around them.
+
+Hot · Less dense / Cold · More dense
+
+4
+
+15–21s
+
+"Har layer ka refractive index alag hai, toh light har layer pe thoda mudti hai."
+
+The ribbon passes through each glass pane and bends slightly at every one, like light through an iPhone camera lens stack. A thin blue normal line fades in at each bend.
+
+Refractive index
+
+5
+
+21–27s
+
+"Aur ye hawa kabhi rukti nahi, toh light ka raasta bhi badalta rehta hai."
+
+The glass panes gently drift and sway, and the ribbon path shifts smoothly left and right with them. Calm and fluid, never chaotic.
+
+Always moving.
+
+6
+
+27–33s
+
+"Kabhi zyada light aankh tak aati hai, taara bright. Kabhi kam, taara dim."
+
+A minimal glossy 3D eye (white sphere, blue iris) sits at the bottom. The ribbon lands on the pupil and the star flares, then drifts off and the star softens. The brightness pulses in rhythm, with a glassy ting on each flare.
+
+Bright. → dim.
+
+7
+
+33–37s
+
+"Taara itna door hai ki wo bas ek chhota sa point dikhta hai, toh ye hil-dul saaf dikhti hai."
+
+Wide pull-back. The whole scene shrinks until the star is a single tiny glowing dot on white. A thin blue ring draws around it.
+
+Point source
+
+8
+
+37–41s
+
+"Isi ko kehte hain twinkling, aur iska reason hai atmospheric refraction."
+
+Everything rearranges into a clean floating diagram: star, glass panes, eye. The keyword types in bold at center with a soft blue underline sweep.
+
+Atmospheric Refraction
+
+9
+
+41–45s
+
+"Space mein jaao, taara ekdum steady hai. Twinkle toh humari hawa karwa rahi hai. ✨"
+
+A cute glossy astronaut helmet floats in and looks at the star, which is perfectly still. The helmet tilts and the camera dips back through the glass panes, where the star starts twinkling again. A playful wink ends the shot.
+
+Asli reason? Hawa. 😉
+
+
+
+End card (0.5s): White screen with your logo, and "Class 10 · Physics · Ch. 10" in light grey underneath.
+
+🎙️ Tightened VO (about 115 words, gives the slower Apple pacing room)
+"Taare ki light space mein bilkul seedhi travel karti hai. Par jaise hi wo Earth ke atmosphere mein aati hai, wahan hawa ki layers hain. Garam hawa kam dense, thandi hawa zyada dense. Har layer ka refractive index alag hai, toh light har layer pe thoda mudti hai. Aur ye hawa kabhi rukti nahi, toh light ka raasta bhi badalta rehta hai. Kabhi zyada light aankh tak aati hai, taara bright. Kabhi kam, taara dim. Taara itna door hai ki wo bas ek chhota sa point dikhta hai, toh ye hil-dul saaf dikhti hai. Isi ko kehte hain twinkling, aur iska reason hai atmospheric refraction. Space mein jaao, taara ekdum steady hai. Twinkle toh humari hawa karwa rahi hai."
+
+
+
+The key decision: a white background for a "night sky" topic sounds wrong, but it's exactly what makes this feel premium and not like every other space video. The frosted glass layers are the hero visual here, so give that shot the most animation budget.
+
+
+
+Should I lock this as your template for every future script, or keep it just for this one?
